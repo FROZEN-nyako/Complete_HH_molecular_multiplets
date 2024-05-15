@@ -6,4 +6,4 @@ This program calculates the contact potentials of non-relativistic $D^{(\star)}D
 
 中文说明文档
 
-本程序计算了重夸克极限下 $D^{(\star)}D^{(\star)}$ 非相对论散射的 contact potentials。“HHMultiplets.nb”的思路基于郭奉坤的“HHbarMultiplets.nb”。为了运行代码，你需要有郭奉坤编写的 Mathematica packages，“[AmpCalc.wl](https://github.com/fkguo/AmpCalc)”和“NREFT.m”。
+本程序计算了重夸克极限下 $D^{(\star)}D^{(\star)}$ 非相对论散射的 contact potentials。“HHMultiplets.nb” 的思路基于郭奉坤的 “HHbarMultiplets.nb”。为了运行代码，你需要有郭奉坤编写的 Mathematica packages，“[AmpCalc.wl](https://github.com/fkguo/AmpCalc)” 和 “NREFT.m”。
